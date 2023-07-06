@@ -1,0 +1,10 @@
+.form{
+    border: 2px solid #ced4da;border-radius:10px;padding:30px;background:#fff;
+}
+label{font-weight:bold;color:#000E4C;}
+input,textarea{outline:none !important;box-shadow:none !important;}
+input:focus,textarea:focus{border-color:#000E4C!important;}
+.h1{color:#FFC905;}
+button[type="submit"],button[type="submit"]:focus,button[type="button"]{
+    background:#000E4C;border-color:#000E4C;
+}
